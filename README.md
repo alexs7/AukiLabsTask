@@ -3,6 +3,7 @@
 ## Structure
 The code is found in two folders.
 **TesterAukiLabs/** and **threejs_viewer/**.
+
 **TesterAukiLabs/** is the Unity Code using AukiLabs SDK.
 **threejs_viewer/** is a viewer that will show two phones in a shared session, and one "fake" phone which is a mock device. (I had only two iPhones to test this.).
 The viewer reads incoming data from the phone and reflects their pose its coordinate system. 
