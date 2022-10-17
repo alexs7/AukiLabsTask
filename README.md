@@ -50,3 +50,5 @@ The iPhone that intersects the other iPhone, should see the lines that make up t
 ![collision still](https://user-images.githubusercontent.com/1533281/196246719-463950bc-42a1-42eb-b270-1e590a4315ee.png)
 
 The frustum intersection is just visible from the mock Phone (camera 3).
+
+[Video](https://youtu.be/79w6hjGnUtI)
