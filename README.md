@@ -11,7 +11,7 @@ The viewer also does the majority of the processing.
 
 ![start scene](https://user-images.githubusercontent.com/1533281/196245164-bf6d6d7a-d213-4579-89c4-f3830b5851ea.png)
 
-The Unity code was developed in Unity 2020.3.30f1. The viewer in **node v16.18.0**.
+The Unity code was developed in Unity **2020.3.30f1**. The viewer in **node v16.18.0**.
 
 ## Setting up
 
