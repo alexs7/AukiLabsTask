@@ -16,7 +16,7 @@ The Unity code was developed in Unity **2020.3.30f1**. The viewer in **node v16.
 ## Setting up
 
 Before compiling and running the iOS app (Unity), please set the IP address of your localhost in **ConjureKitDemo.cs**.
-You can use the API ketys provided or yours.
+You can use the API keys provided or yours.
 To run the viewer simply run ```npm start``` inside **threejs_viewer/**.
 
 Run the viewer first then launch an app and wait until **ConjureKit** is calibrated. Once you see the QR code the phone should start sending data to the viewer. You should see 1 frustum only.
