@@ -1,0 +1,27 @@
+{
+  "name": "arcore_debugger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^8.0.1",
+    "electron-packager": "^14.2.1"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "bootstrap": "^4.4.1",
+    "express": "^4.17.1",
+    "jquery": "^3.4.1",
+    "pngjs": "^3.3.2",
+    "popper": "^1.0.1",
+    "quaternion": "^1.1.0",
+    "sleep": "^5.1.1",
+    "three": "^0.91.0"
+  }
+}

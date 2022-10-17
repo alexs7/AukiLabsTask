@@ -1,0 +1,10 @@
+<linker>
+    <assembly fullname="Newtonsoft.Json" ignoreIfMissing="1">
+        <namespace fullname="System.Runtime.CompilerServices" preserve="all" />
+    </assembly>
+    <assembly fullname="com.aukilabs.unity.conjurekit" preserve="all" />
+    <assembly fullname="com.aukilabs.unity.vikja" preserve="all" />
+    <assembly fullname="com.aukilabs.unity.manna" preserve="all" />
+    <assembly fullname="com.aukilabs.unity.odal" preserve="all" />
+    <assembly fullname="com.aukilabs.unity.grund" preserve="all" />
+</linker>

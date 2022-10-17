@@ -1,0 +1,45 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    overflow:hidden;
+    width: 100%;
+    height: 100%;
+}
+
+#container {
+    position: relative;
+}
+#container canvas, #overlay {
+    position: absolute;
+}
+
+#overlay{
+    background: whitesmoke;
+    bottom: -53em;
+    left: 1%;
+    position: absolute;
+    width: 24em;
+    font-family: Arial;
+    border: 2px solid #FFFFFF;
+    border-radius: 2px;
+}
+
+#camera1DS {
+    border: 1px solid white;
+    top: 1em;
+    left: 1%;
+    position: absolute;
+    width: 240px;
+    height: 320px;
+    background: whitesmoke;
+}
+
+#camera2DS {
+    border: 1px solid white;
+    top: 1em;
+    right: 1%;
+    position: absolute;
+    width: 240px;
+    height: 320px;
+    background: whitesmoke;
+}
